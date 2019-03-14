@@ -1,5 +1,5 @@
 # A Neural Network Library From Scratch
-A neural network library written in Python as partial fulfilment of my final undergraduate project. The only external library I used to create the neural network is NumPy. I based my library off of Michael Nielsen's [network2.py](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src) neural network library. The differences between my library and Nielsen's are outlined in network_library.py.
+A neural network library written in Python as partial fulfilment of my final undergraduate project. I based my library off of Michael Nielsen's [network2.py](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src) neural network library. The differences between my library and Nielsen's are outlined in network_library.py.
 
 # Overview
 ### network_library.py
