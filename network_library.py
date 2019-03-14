@@ -8,7 +8,7 @@ Credit: Much of the code and functions in this library were inspired by
 Michael Nielsen's own neural network library: 
 https://github.com/mnielsen/neural-networks-and-deep-learning, and his
 online textbook: 'Neural networks and deep learning'. Without this
-amazing textbook, this project would not have been possible.
+splendid resource, this project would not have been possible.
 
 Indeed, much of the code in this library looks similar to Nielsen's 
 network.py and network2.py files. However, there is an aspect of this 
