@@ -2,7 +2,6 @@
 A neural network library I wrote as a component of my undergraduate thesis. The only external library I use to create the neural network is NumPy. I based my library off of Michael Nielsen's [network2.py](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src) neural network library.
 
 # Overview
-## The library 
 ### network_library.py
 Contains the code for the neural network library is held.
 
@@ -29,7 +28,7 @@ Compares a network using DropConnect to one not using DropConnect.
 ### train_network.py
 Train the network using the settings I found to achieve the highest results. This file also allows you to load the trained network, 'network.txt', which achieves an accuracy level of 98.06% on the test data.
 
-## Miscelaneous
+## Miscellaneous
 ### mnist_loader.py
 Loads the mnist.pkl.gz file as data 
 
