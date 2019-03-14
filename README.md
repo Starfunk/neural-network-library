@@ -8,10 +8,10 @@ Contains the code for the neural network library is held.
 ## Tests
 Every test is designed to compare two networks with slightly different settings. A plot showing the performance of both networks on the MNIST dataset is shown after the program is finished running.
 ### architecture_test.py
-Compares two network architectures: 784-100-100-10 vs. 784-100-10.
+Compares two network architectures: 784-100-100-10 and 784-100-10.
 
 ### cost_function_test.py
-Compares a network using the cross-entropy cost function to one using the quadratic cost function
+Compares a network using the cross-entropy cost function to one using the quadratic cost function.
 
 ### small_weight_initialization_test.py
 Compares a network using small weight initialization to one not using small weight initialization.
@@ -30,7 +30,7 @@ Train the network using the settings I found to achieve the highest results. Thi
 
 ## Miscellaneous
 ### mnist_loader.py
-Loads the mnist.pkl.gz file as data 
+Loads the mnist.pkl.gz file as data.
 
 ### mnist.pkl.gz
 The MNIST dataset.
