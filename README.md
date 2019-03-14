@@ -6,7 +6,7 @@ A neural network library I wrote as a component of my undergraduate thesis. The 
 Contains the code for the neural network library is held.
 
 ## Tests
-Every test is designed to compare two networks with slightly different settings. Once the program has finished running, a plot showing the performance of both networks on the MNIST dataset will be shown.
+Every test is designed to compare two networks with slightly different settings. A plot showing the performance of both networks on the MNIST dataset is shown after the program is finished running.
 ### architecture_test.py
 Compares two network architectures: 784-100-100-10 vs. 784-100-10.
 
