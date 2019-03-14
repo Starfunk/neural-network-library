@@ -6,7 +6,8 @@ A neural network library written in Python as partial fulfilment of my final und
 This is the central file of my project. This file represents the "neural network library", i.e., it contains all the code necessary to create and train a neural network.
 
 ## Tests
-Each test is designed to compare a key neural network feature. For example, we test the performance of a network using L2 regularization to one that is not using L2 regularization in *L2_regularization_test.py*.
+Each test is designed to compare a key neural network feature. For example, we test the performance of a network using L2 regularization to one that is not using L2 regularization in L2_regularization_test.py.
+
 ### architecture_test.py
 Compares two network architectures: 784-100-100-10 and 784-100-10.
 
