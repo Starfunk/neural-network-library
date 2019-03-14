@@ -1,9 +1,9 @@
 # A Neural Network Library From Scratch
-A neural network library written in Python as partial fulfilment of my final undergraduate project. The only external library I use to create the neural network is NumPy. I based my library off of Michael Nielsen's [network2.py](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src) neural network library. The differences between my library and Nielsen's are outlined in network_library.py.
+A neural network library written in Python as partial fulfilment of my final undergraduate project. The only external library I used to create the neural network is NumPy. I based my library off of Michael Nielsen's [network2.py](https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src) neural network library. The differences between my library and Nielsen's are outlined in network_library.py.
 
 # Overview
 ### network_library.py
-This is the central file of my project. This file represents the "neural network library",i.e., it contains all the code necessary to create and train a neural network.
+This is the central file of my project. This file represents the "neural network library", i.e., it contains all the code necessary to create and train a neural network.
 
 ## Tests
 Each test is designed to compare a key neural network feature. For example, we test the performance of a network using L2 regularization to one that is not using L2 regularization.
