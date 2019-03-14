@@ -1,14 +1,17 @@
 # A Neural Network Library From Scratch
-A neural network library I made as a component of my undergraduate thesis. I only use NumPy to create the structure of the neural network.
+A neural network library I wrote as a component of my undergraduate thesis. I only use NumPy to create the structure of the neural network.
 
-[neural networks and deep learning] (https://github.com/mnielsen/neural-networks-and-deep-learning)
 
-### L2_regularization_test.py
+[PurpleBooth](https://github.com/PurpleBooth)
+## The library 
+### network_library.py
 
-### mnist_loader.py
-Loads the mnist.pkl.gz file as 
+## Tests
+### train_network.py
 
 ### architecture_test.py
+### L2_regularization_test.py
+### small_weight_initialization_test.py
 
 ### cost_function_test.py
 
@@ -16,15 +19,19 @@ Loads the mnist.pkl.gz file as
 
 ### dropout_test.py
 
+
+## Miscelaneous
+### mnist_loader.py
+Loads the mnist.pkl.gz file as data 
+
 ### mnist.pkl.gz
 
 ### network.txt
 
-### network_library.py
 
-### small_weight_initialization_test.py
 
-### train_network.py
+
+
 
 
 * architecture_test.py
