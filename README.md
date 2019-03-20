@@ -32,10 +32,10 @@ Train the network using the settings I found to achieve the highest results. Thi
 ## Miscellaneous
 A set of miscellaneous files that support the function of the neural network library.
 ### mnist_loader.py
-Loads the mnist.pkl.gz file as data.
+Loads the mnist.pkl.gz file so that we can interact with the MNIST dataset.
 
 ### mnist.pkl.gz
 The MNIST dataset.
 
 ### network.txt 
-A trained network saved as a textfile, which achieves an accuracy rating of 98.06% on the MNIST test data.
+A trained network saved as a textfile. In order to use this network's parameters you must load the textfile as neural network by using ```load()``` in the ``network_library.py`` file. This network achieves an accuracy rating of 98.06% on the MNIST test data.
