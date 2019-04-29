@@ -27,7 +27,7 @@ Compares a network using Dropout to one not using Dropout.
 Compares a network using DropConnect to one not using DropConnect.
 
 ### train_network.py
-Train the network using the settings I found to achieve the highest results. This file also allows you to load the trained network, 'network.txt', which achieves an accuracy level of 98.06% on the test data.
+Train the network using the settings I found to achieve the highest results. This file loads the trained network, 'network.txt', which achieves an accuracy level of 98.06% on the test data.
 
 ## Miscellaneous
 A set of miscellaneous files that support the function of the neural network library.
